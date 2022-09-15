@@ -142,3 +142,7 @@ let docenteB = new profesores ("castaña", "cacho", listadoAlumnos);
 let listadoProfesores : profesores[] = [docenteA,docenteB];
 
 let escuela1 = new escuela ("escuela", 123,listadoAlumnos,listadoProfesores)
+
+console.log(listadoAlumnos)
+console.log(listadoProfesores)
+console.log(escuela1)
